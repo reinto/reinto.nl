@@ -1,0 +1,138 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  color: #66BFBF;
+  font-family: 'Rock Salt', cursive;
+  font-size: 4.375rem;
+  margin: 3.125rem auto 0;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Roboto Slab', serif;
+  font-size: 2.2rem;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Roboto Slab', serif;
+  font-size: 1.5rem;
+  margin: 0;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+a:hover {color: #EAF6F6;}
+
+hr {
+  border-color: lightgrey;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 8px;
+  clear: both;
+  width: 5%;
+}
+
+.basicfont {
+  color: #40514E;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 1.25rem;
+  line-height: 2;
+}
+
+.copywrite {
+  color: #EAF6F6;
+  font-size: 1rem;
+}
+
+.circular {border-radius: 100%;}
+
+.topdiv {
+  background-color: #E4F9FF;
+  padding-top: 100px;
+  position: relative;
+}
+
+.topcloud {
+  position: absolute;
+  right: 20%;
+  top: 50px;
+}
+
+.subtitle {
+  font-weight: normal;
+  margin: 0 auto;
+}
+
+.lowcloud {
+  bottom: 300px;
+  left: 20%;
+  position: absolute;
+}
+
+.profile {
+  margin: 100px auto;
+  width: 45%;
+}
+
+.profile_pic1 {width: 25%;}
+
+.skills {margin: 100px auto;}
+
+.skill-row {
+  margin: 100px auto;
+  text-align: left;
+  width: 50%;
+}
+
+.skill1 {
+  float: left;
+  margin-right: 50px;
+  width: 25%;
+}
+
+.skill2 {
+  float: right;
+  margin-left: 50px;
+  width: 25%
+}
+
+.contact-me {
+  margin: 100px auto;
+  width: 45%;
+}
+
+.contact-message {margin: 2rem auto 3.125rem;}
+
+.btn {
+  background-color: #66BFBF;
+  border-radius: 8px;
+  color: #EAF6F6;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 1.25rem;
+  padding: 8px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background-color: white;
+  border: 2px solid #66BFBF;
+  color: #66BFBF;
+}
+
+.lowdiv {
+  background-color: #66BFBF;
+  padding: 1rem 0;
+}
+
+.footer-link {color: #11999E;}
+
+.footer-link-spacing {padding: 0 1rem;}
+
+.regular-line-height {line-height: 1;}
